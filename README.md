@@ -24,7 +24,7 @@ The dashboard provides insights into **revenue drivers, customer demographics, c
 - **Data Modeling**: relationships between customer and credit card tables
 
 ## Dataset
-The dataset contains anonymized records of ![credit card transactions](https://github.com/INDDRSINGH/Credit-card-customer-data-analysis/blob/main/credit_card.csv) and ![customer profiles](https://github.com/INDDRSINGH/Credit-card-customer-data-analysis/blob/main/customer.csv), including:
+The dataset contains anonymized records of [credit card transactions](https://github.com/INDDRSINGH/Credit-card-customer-data-analysis/blob/main/credit_card.csv) and [customer profiles](https://github.com/INDDRSINGH/Credit-card-customer-data-analysis/blob/main/customer.csv), including:
 - Card category, Client num, credit limit, Expense type, Interest earned, activation, transaction volumes
 - Customer demographics: age, gender, marital status, income, credit score, Car owner, House Owner, state, Zip code.
 
