@@ -36,7 +36,7 @@ The dataset contains anonymized records of [credit card transactions](https://gi
 - Higher-income groups show higher average credit limits and spending patterns.
 
 ## Dashboard Preview
-![Dashboard Screenshot](https://github.com/INDDRSINGH/Credit-card-customer-data-analysis/blob/main/Credit%20card%20dashboard.pdf)
+[Dashboard Screenshot](https://github.com/INDDRSINGH/Credit-card-customer-data-analysis/blob/main/Credit%20card%20dashboard.pdf)
 
 
 ---
