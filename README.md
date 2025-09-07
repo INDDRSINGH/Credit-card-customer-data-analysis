@@ -1,6 +1,6 @@
 # Credit Card Transactions Dashboard – Power BI
 
-![DatabaseSchema](https://github.com/INDDRSINGH/Credit-card-customer-data-analysis/blob/main/logo.jpg)
+![DatabaseSchema](https://github.com/INDDRSINGH/Credit-card-customer-data-analysis/blob/main/new.jpg)
 
 ## Project Overview
 This project analyzes credit card transactions and customer behavior using **Power BI**.  
